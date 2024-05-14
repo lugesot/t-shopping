@@ -15,7 +15,7 @@ export default function Footer() {
             <div className="flex flex-col gap-y-2 lg:flex-row lg:space-x-5">
               <span>我们每周 7 天、每天 24 小时为您解答</span>
               <span className="hidden lg:block bg-gray-300 w-[2px]" />
-              <span>我的微信：huanghanzhilian</span>
+              <span>我的微信：lugesot</span>
             </div>
           </div>
           <div className="min-w-max">
